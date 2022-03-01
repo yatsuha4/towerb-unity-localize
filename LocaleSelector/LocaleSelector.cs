@@ -8,7 +8,7 @@ using UnityEngine.Localization.Metadata;
 using UnityEngine.Localization.Settings;
 using UnityEngine.UI;
 
-namespace Towerb.Localize
+namespace towerb.localize
 {
   /**
      <summary>ロケールセレクタ</summary>

@@ -7,7 +7,7 @@ using UnityEngine.Localization;
 using UnityEngine.Localization.Components;
 using UnityEngine.UI;
 
-namespace Towerb.Editor.Localize
+namespace towerb.editor.localize
 {
     /**
        ローカライズされたテキストを設定する
